@@ -1,5 +1,9 @@
 # include <stdio.h>
 # include <stdlib.h>
+/*
+Įvedinėti sveikų skaičių seką tol, kol ji nemažėja. Išvesti sekos narių skaičių ir jų
+aritmetinį vidurkį.
+*/
 
 int main ()
 {
